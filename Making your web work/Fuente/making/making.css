@@ -1,0 +1,37 @@
+.making {
+  font-family: sans-serif;
+  font-size: 6rem;
+  color: #85B721;
+  font-weight: bolder;
+}
+
+.your {
+  font-family: sans-serif;
+  font-size: 5rem;
+  color: #FFFFFF;
+  font-weight: bolder;
+}
+.web {
+  font-family: sans-serif;
+  font-size: 5rem;
+  color: #1A90E1;
+  font-weight: bolder;
+}
+.work {
+   font-family: sans-serif;
+   font-size: 7rem;
+   color: #EE3C45;
+   font-weight: bolder;
+   }
+.subtitulo {
+   font-family: serif;
+   font-size: 2rem;
+   color: #1A90E1;
+}
+.texto {
+  text-align: center; justify-content: flex-start;
+  width: 500px;
+}
+body {
+   background-color: #CECBB8;
+}
